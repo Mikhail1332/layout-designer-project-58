@@ -9,18 +9,18 @@
 @font-face {
   font-weight: bold;
   font-family: "Open Sans";
-  src: url("../assets/fonts/OpenSans-Bold.ttf");
+  src: url("../asserts/fonts/OpenSans-Bold.ttf");
 }
 
 @font-face {
   font-weight: normal;
   font-family: "Open Sans";
-  src: url("../assets/fonts/OpenSans-Regular.ttf");
+  src: url("../asserts/fonts/OpenSans-Regular.ttf");
 }
 
 @font-face {
   font-family: Neucha;
-  src: url("../assets/fonts/Neucha-Regular.ttf");
+  src: url("../asserts/fonts/Neucha-Regular.ttf");
 }
 
 :root {
